@@ -73,7 +73,17 @@ The dataset consists of:
 6. **Save the Model:** Store the trained model for future predictions.
 7. **Visualize Results:** Use Matplotlib to plot training/validation accuracy and loss.
 
- **For code:** please refer attached Cats_vs_ Dogs_Image_Classification_using_CNN.ipynb file
+---
 
+##  Conclusion
+We successfully built a deep neural network model by implementing Convolutional Neural Network (CNN) to classify dog and cat images with very high accuracy 74.00 %.
+
+The model was used to predict the classes of the images from the independent test set and results were submitted to test the accuracy of the prediction with fresh data.
+
+The Cat vs Dog Image Classification model demonstrates the successful implementation of a Convolutional Neural Network for image classification tasks. By accurately distinguishing between images of cats and dogs, this project showcases the potential of deep learning algorithms in solving real-world problems involving image analysis. Through this project, we aim to inspire further exploration of CNNs and their applications in various domains,
 
 ---
+
+ **For code:** please refer attached Cats_vs_ Dogs_Image_Classification_using_CNN.ipynb file
+ 
+ ---
